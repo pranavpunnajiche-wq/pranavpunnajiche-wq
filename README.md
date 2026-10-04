@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="assets/hero.svg" width="100%" alt="PRANAV over the background artwork"/>
+<img src="hero.svg" width="100%" alt="PRANAV over the background artwork"/>
 
 <sub>Background artwork by Awedict. All credit to the original artist.</sub>
 
