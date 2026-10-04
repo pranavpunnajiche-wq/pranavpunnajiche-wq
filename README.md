@@ -44,29 +44,15 @@ currently:   Building the next generation of my custom drone 🚁
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/F-16%201.jpg?width=500" width="100%" alt="F-16 Fighting Falcon"/>
-      <br/><br/>
-      <b>🦅 F-16 Fighting Falcon</b><br/>
-      <sub>Agile single-engine multirole fighter<br/>Fly-by-wire controls • Bubble canopy • Mach 2 class</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://commons.wikimedia.org/wiki/Special:FilePath/B-2%20Spirit%204.jpg?width=500" width="100%" alt="B-2 Spirit stealth bomber"/>
-      <br/><br/>
-      <b>🦇 B-2 Spirit</b><br/>
-      <sub>Flying-wing stealth bomber<br/>Low-observable design • Composite structure</sub>
-    </td>
-  </tr>
-</table>
+<img src="assets/f16.svg" width="49%" alt="F-16 Fighting Falcon HUD"/>
+<img src="assets/b2.svg" width="49%" alt="B-2 Spirit stealth scan"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/F--16%20Fighting%20Falcon-1e3a8a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/B--2%20Spirit-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Fighter%20Jets-b91c1c?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Stealth%20Technology-4b5563?style=for-the-badge"/>
-
-<sub>Photos: U.S. Air Force, public domain, via Wikimedia Commons</sub>
 
 </div>
 
