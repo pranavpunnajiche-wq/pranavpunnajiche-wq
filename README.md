@@ -23,13 +23,13 @@
 ## 👨‍🚀 About Me
 
 ```yaml
-name:        Pranav Punnajiche
-studying:    Aeronautical Engineering
-focus:       [Drone Design, Fighter Jet Aerodynamics, Stealth Tech, Prototyping, Embedded Electronics]
-hobbies:     [Building drones, Drone piloting, DIY electronics, Studying fighter jets]
-favorite_aircraft: [F-16 Fighting Falcon, B-2 Spirit Stealth Bomber]
-superpower:  Going from CAD sketch → 3D print → flight test
-currently:   Building the next generation of my custom drone 🚁
+Name:        Pranav Punnajiche
+Studying:    Aeronautical Engineering
+Focus:       [Drone Design, Fighter Jet Aerodynamics, Stealth Tech, Prototyping, Embedded Electronics]
+Hobbies:     [Building drones, Drone piloting, DIY electronics, Studying fighter jets]
+Favorite_aircraft: [F-16 Fighting Falcon, B-2 Spirit Stealth Bomber]
+Superpower:  Going from CAD sketch → 3D print → flight test
+Currently:   Building the next generation of my custom drone 🚁
 ```
 
 - 🔭 Designing and testing UAV airframes, from concept CAD to real flight
